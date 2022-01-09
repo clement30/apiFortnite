@@ -1,3 +1,49 @@
+## What's the project ?
+
+The main goal of this project is to search for player's statistics from the Fortnite Game.
+
+## Statistics
+
+On this page you can search for a player statistics. You need to click the button twice after you wrote a "pseudo".
+If the "pseudo" does'nt exist, the message "player not found" will be shown
+
+## Battle pass reward
+
+On this section you can see all the rewards for this season.
+if you right click on a image you can have some details about it.
+Each object have a rarity linked to a color :
+
+Common - Grey
+Uncommon - Green
+Rare - Blue
+Epic - Purple
+Legendary - Orange
+Mythic - Gold
+Exotic - Light Blue
+
+Also if you want to go up on the page you can click on the arrow to go up.
+
+## Daily shop
+
+This page will show you all daily objects you can buy on the shop with virtual coins on the game.
+The shop will reset automatically all the day at 1:00 AM on the morning.
+Like the "Battle pass reward" section you can have details, rarity and the arrow to go up on the page.
+
+## Fish and weapons
+
+These pages show you all the weapons and fish available in the game.
+The weapons with high rarity are stronger.
+Fish are usefull to obtain "special effects" on game (speed effect, earn life point etc ...).
+
+## Map
+
+This page show you the actual Fortnite map.
+
+## About
+
+This page display all those who participated on the project
+
+
 # AppFortnite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
